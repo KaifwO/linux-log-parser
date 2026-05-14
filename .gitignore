@@ -1,0 +1,54 @@
+# PYTHON CACHE
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# VIRTUAL ENV
+
+venv/
+env/
+.venv/
+ENV/
+
+
+# ENV FILES (SECRETS)
+
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+
+# LOG FILES 
+
+*.log
+logs/
+auth.log
+secure.log
+
+
+# OS FILES
+
+.DS_Store
+Thumbs.db
+
+
+# IDE / EDITORS
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# CYBER / NETWORK ARTIFACTS 
+
+*.pcap
+*.pcapng
