@@ -1,3 +1,4 @@
 {
-  "failed_threshold": 2
+  "LOG_PATH": "sample.log",
+  "THRESHOLD": 5
 }
